@@ -1,0 +1,1 @@
+"./ds18b20.obj" "./main.obj" "./oled.obj" "../lnk_msp430f149.cmd" -llibc.a 
